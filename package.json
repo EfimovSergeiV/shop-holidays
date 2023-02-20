@@ -1,0 +1,23 @@
+{
+  "name": "shop-holidays",
+  "version": "1.0.0",
+  "description": "Tables holidays for Main Welder shops",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tailwindcss -i ./input.css -o ./css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EfimovSergeiV/shop-holidays.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EfimovSergeiV/shop-holidays/issues"
+  },
+  "homepage": "https://github.com/EfimovSergeiV/shop-holidays#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
