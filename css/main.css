@@ -1804,12 +1804,16 @@ video {
   background-color: rgb(255 0 0 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\/img\/New-Jahr-1\.jpg\'\)\] {
-  background-image: url('/img/New-Jahr-1.jpg');
+.bg-\[url\(\'\/img\/4\.11\.png\'\)\] {
+  background-image: url('/img/4.11.png');
 }
 
 .bg-gradient-to-br {
   background-image: linear-gradient(to bottom right, var(--tw-gradient-stops));
+}
+
+.bg-\[url\(\'\/img\/New-Jahr-1\.jpg\'\)\] {
+  background-image: url('/img/New-Jahr-1.jpg');
 }
 
 .from-slate-800\/90 {
@@ -1951,9 +1955,9 @@ video {
   padding-right: 1.5rem;
 }
 
-.px-\[20px\] {
-  padding-left: 20px;
-  padding-right: 20px;
+.px-\[10px\] {
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .py-3 {
@@ -2031,9 +2035,9 @@ video {
   font-family: Open Sans;
 }
 
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
+.text-base {
+  font-size: 1rem;
+  line-height: 1.5rem;
 }
 
 .text-xs {
